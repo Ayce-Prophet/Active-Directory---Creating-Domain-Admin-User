@@ -1,7 +1,7 @@
 # Active-Directory---Creating-Domain-Admin-User
 
 ## Description
-This project the task of creating a Domain Admin user within the domain
+This project is the task of creating organizational units for employees and admins the creating a user that will be added to the "Domain Admins" group within the domain.
 
 ## Environments and Technologies Used
 - Microsoft Azure (Virtual Machines/Compute)
