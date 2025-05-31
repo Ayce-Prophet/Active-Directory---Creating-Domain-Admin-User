@@ -28,6 +28,6 @@ Type in the new users Name and logon name. In the next tab be sure to give them 
 ![Password](https://github.com/user-attachments/assets/f0a767be-ee20-43e4-8939-84546496b4d5) <br/>
 Next right click the user created and in "propeties" select the "Member of" tab and click "Add"
 ![User Properties](https://github.com/user-attachments/assets/dd17d8b1-745c-438a-9a13-1e761002bcd1)
-At he bottom type in "Domain Admins" and click on "Check Names" button to find the built in group and hit "OK"
+At he bottom type in "Domain Admins" and click on "Check Names" button to find the built in group and hit "OK" and "Apply" in the properties tab
 ![Screenshot 2025-05-31 121216](https://github.com/user-attachments/assets/0aca2bea-f9d2-4d60-b139-c2df6b19f263) <br/>
 
