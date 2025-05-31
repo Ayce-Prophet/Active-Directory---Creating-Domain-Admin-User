@@ -11,3 +11,6 @@ This project is the task of creating organizational units for employees and admi
 ## Operating Systems Used
 - Windows Server 2022
 - Windows 10
+
+## Walkthrough
+
