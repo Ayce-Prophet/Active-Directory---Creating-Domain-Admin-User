@@ -30,4 +30,5 @@ Next right click the user created and in "propeties" select the "Member of" tab 
 ![User Properties](https://github.com/user-attachments/assets/dd17d8b1-745c-438a-9a13-1e761002bcd1)
 At he bottom type in "Domain Admins" and click on "Check Names" button to find the built in group and hit "OK" and "Apply" in properties
 ![Screenshot 2025-05-31 121216](https://github.com/user-attachments/assets/0aca2bea-f9d2-4d60-b139-c2df6b19f263) <br/>
-
+Now if all steps were correctly done when you logoff you are able to login as the new user you've created
+![Remote Desktop Login](https://github.com/user-attachments/assets/1e9fbf3b-285d-4bf3-a7ee-996bbc2c323e)
