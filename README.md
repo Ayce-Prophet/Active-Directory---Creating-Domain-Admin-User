@@ -1,4 +1,4 @@
-# Active-Directory---Creating-Domain-Admin-User
+# Active Directory Creating Domain Admin User
 
 ## Description
 This project is the task of creating organizational units for employees and admins the creating a user that will be added to the "Domain Admins" group within the domain.
